@@ -1,0 +1,9 @@
+{
+    // other settings
+    "github.copilot.enabled": false,
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "chat.agent.enabled": false
+    // other settings
+}
